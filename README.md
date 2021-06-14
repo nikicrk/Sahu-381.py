@@ -6,4 +6,8 @@
 * pkg install git
 * git clone https://github.com/nikicrk/Sahu-381.py
 * cd nikicrk
+* cd r-m
 * python Sahu.py
+
+
+
