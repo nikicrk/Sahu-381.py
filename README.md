@@ -4,10 +4,10 @@
 * pip install bs4
 * pkg install git
 * git clone https://github.com/nikicrk/Sahu-381.py
-* cd nikicrk
+* cd Sahu-381
 * cd r-m
 * pip install mechanize
-* python Sahu.py
+* python2 Sahu-381.py
 
 
 
